@@ -1,4 +1,4 @@
-## Brief dDescription of the Slide
+## Brief Description of the Slide
 
 This slide make us understand what is digital literacy and why it is important , it also tells us about various digital tools which we can use in our daily lives.
 
